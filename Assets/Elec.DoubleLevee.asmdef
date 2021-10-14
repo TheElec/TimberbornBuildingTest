@@ -1,0 +1,25 @@
+{
+    "name": "Elec.DoubleLevee",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "0Harmony.dll",
+        "BepInEx.dll",
+        "BepInEx.Harmony.dll",
+        "Timberborn.AssetSystem.dll",
+        "Timberborn.BlockSystem.dll",
+        "Timberborn.Buildings.dll",
+        "Timberborn.ConstructibleSystem.dll",
+        "Timberborn.FactionSystemGame.dll",
+        "Timberborn.WaterBuildings.dll",
+        "Timberborn.Goods.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
